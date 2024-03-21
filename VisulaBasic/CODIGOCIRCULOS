@@ -1,0 +1,61 @@
+' Instrucciones
+' Guardar el archivo bajo el nombre radio del circulo.xlsx en la ubicación C:\Users\ESTUDIANTE\Documents ó cambiar la dirección automáticamente del archivo
+' Poner en las celdas B1,B2 y B3 los diámetros de los circulos que se desean hacer, son máximo 3 pero se puede usar solo 1
+
+
+
+
+
+Sub CrearCirculosEnAutoCAD()
+    Dim xlApp As Object
+    Dim xlWorkbook As Object
+    Dim valor1 As Double
+    Dim valor2 As Double
+    Dim valor3 As Double
+    Dim acadApp As Object
+    Dim acadDoc As Object
+    Dim acadModelSpace As Object
+    
+    ' Abre Excel y el archivo
+    Set xlApp = CreateObject("Excel.Application")
+    Set xlWorkbook = xlApp.Workbooks.Open("C:\Users\ESTUDIANTE\Documents\radio del circulo.xlsx") ' Se puede cambiar la dirección del archivo acá
+    
+    ' Lee los valores de las celdas B1, B2 y B3
+    valor1 = xlWorkbook.Sheets(1).Range("B1").Value
+    valor2 = xlWorkbook.Sheets(1).Range("B2").Value
+    valor3 = xlWorkbook.Sheets(1).Range("B3").Value
+    
+    ' Cierra Excel y el archivo
+    xlWorkbook.Close False
+    xlApp.Quit
+    
+    ' Abre AutoCAD
+    On Error Resume Next
+    Set acadApp = GetObject(, "AutoCAD.Application")
+    On Error GoTo 0
+    If acadApp Is Nothing Then
+        Set acadApp = CreateObject("AutoCAD.Application")
+    End If
+    
+    acadApp.Visible = True
+    Set acadDoc = acadApp.Documents.Add
+    
+    ' Obtiene el modelo de espacio del documento activo
+    Set acadModelSpace = acadDoc.ModelSpace
+    
+    ' Crea los círculos en AutoCAD con los valores leídos
+    Dim circleCenter(0 To 2) As Double
+    circleCenter(0) = 0
+    circleCenter(1) = 0
+    circleCenter(2) = 0
+    
+    acadModelSpace.AddCircle circleCenter, valor1
+    acadModelSpace.AddCircle circleCenter, valor2
+    acadModelSpace.AddCircle circleCenter, valor3
+    
+    ' Limpia las variables
+    Set xlWorkbook = Nothing
+    Set xlApp = Nothing
+    Set acadDoc = Nothing
+    Set acadModelSpace = Nothing
+End Sub
