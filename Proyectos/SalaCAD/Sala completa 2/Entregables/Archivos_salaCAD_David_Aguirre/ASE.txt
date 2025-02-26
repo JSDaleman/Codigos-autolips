@@ -1,0 +1,6 @@
+CUADERNO            224.167.0.00NEGRO                  30000Scribe              100 hojas            2019
+MONITOR             600.315.0.00ROJO                 1500000SAMSUNG             AMBX                 2021
+PHONE               1003286.0.00ROJO                 4000000APPLE               IPHONE 14            2022
+MOUSE               975.167.0.00VERDE                 200000LOGITECH            SS45                 2018
+TECLADO             600.255.0.00AZUL                  300000RAZER               MJ33                 2021
+SILLA               600.-46.0.00VERDE                 300000HOME & OFFICE       AMB55                2018

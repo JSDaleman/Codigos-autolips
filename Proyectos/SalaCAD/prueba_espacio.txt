@@ -1,0 +1,613 @@
+
+Block:mouse X:734.9656 Y:1.3063 Rotation:3.14
+Tag:ID Value:22
+Tag:PUESTO Value:29
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:654.6002 Y:6.1762 Rotation:3.14
+Tag:ID Value:20
+Tag:PUESTO Value:27
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:579.3202 Y:3.9944 Rotation:3.14
+Tag:ID Value:18
+Tag:PUESTO Value:25
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:500.5835 Y:3.6106 Rotation:3.14
+Tag:ID Value:16
+Tag:PUESTO Value:23
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:432.2170 Y:5.1458 Rotation:3.14
+Tag:ID Value:14
+Tag:PUESTO Value:21
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:784.2666 Y:-73.9811 Rotation:0.00
+Tag:ID Value:23
+Tag:PUESTO Value:30
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:699.2731 Y:-76.6472 Rotation:0.00
+Tag:ID Value:21
+Tag:PUESTO Value:28
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:627.5403 Y:-77.4183 Rotation:0.00
+Tag:ID Value:19
+Tag:PUESTO Value:26
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:550.9318 Y:-75.8948 Rotation:0.00
+Tag:ID Value:17
+Tag:PUESTO Value:24
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:479.2781 Y:-77.0374 Rotation:0.00
+Tag:ID Value:15
+Tag:PUESTO Value:22
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:396.9940 Y:-76.8164 Rotation:0.00
+Tag:ID Value:13
+Tag:PUESTO Value:20
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:735.0784 Y:247.3395 Rotation:3.14
+Tag:ID Value:12
+Tag:PUESTO Value:13
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:654.7129 Y:252.2094 Rotation:3.14
+Tag:ID Value:11
+Tag:PUESTO Value:11
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:579.4330 Y:250.0276 Rotation:3.14
+Tag:ID Value:10
+Tag:PUESTO Value:9
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:500.6963 Y:249.6437 Rotation:3.14
+Tag:ID Value:9
+Tag:PUESTO Value:7
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:432.3298 Y:251.1790 Rotation:3.14
+Tag:ID Value:8
+Tag:PUESTO Value:5
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:351.7755 Y:250.6771 Rotation:3.14
+Tag:ID Value:7
+Tag:PUESTO Value:3
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:784.3793 Y:172.0520 Rotation:0.00
+Tag:ID Value:6
+Tag:PUESTO Value:14
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:699.3859 Y:169.3859 Rotation:0.00
+Tag:ID Value:5
+Tag:PUESTO Value:12
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:627.6531 Y:168.6149 Rotation:0.00
+Tag:ID Value:4
+Tag:PUESTO Value:10
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:551.0446 Y:170.1383 Rotation:0.00
+Tag:ID Value:3
+Tag:PUESTO Value:8
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:479.3909 Y:168.9957 Rotation:0.00
+Tag:ID Value:2
+Tag:PUESTO Value:6
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:mouse X:397.1068 Y:169.2167 Rotation:0.00
+Tag:ID Value:1
+Tag:PUESTO Value:4
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Mesa X:718.8012 Y:-93.5261 Rotation:0.00
+Tag:ID Value:8
+Tag:POSICION Value:8
+Tag:PC_ACTUALES Value:2
+
+Block:Mesa X:565.7115 Y:-93.5261 Rotation:0.00
+Tag:ID Value:7
+Tag:POSICION Value:7
+Tag:PC_ACTUALES Value:4
+
+Block:Mesa X:412.6218 Y:-93.5261 Rotation:0.00
+Tag:ID Value:6
+Tag:POSICION Value:6
+Tag:PC_ACTUALES Value:4
+
+Block:Mesa X:259.5321 Y:-93.5261 Rotation:0.00
+Tag:ID Value:5
+Tag:POSICION Value:5
+Tag:PC_ACTUALES Value:1
+
+Block:Mesa X:718.9139 Y:152.5070 Rotation:0.00
+Tag:ID Value:4
+Tag:POSICION Value:4
+Tag:PC_ACTUALES Value:2
+
+Block:Mesa X:565.8243 Y:152.5070 Rotation:0.00
+Tag:ID Value:3
+Tag:POSICION Value:3
+Tag:PC_ACTUALES Value:4
+
+Block:Mesa X:412.7346 Y:152.5070 Rotation:0.00
+Tag:ID Value:2
+Tag:POSICION Value:2
+Tag:PC_ACTUALES Value:4
+
+Block:Mesa X:259.6449 Y:152.5070 Rotation:0.00
+Tag:ID Value:1
+Tag:POSICION Value:1
+Tag:PC_ACTUALES Value:2
+
+Block:Keyboard X:790.7511 Y:10.1707 Rotation:3.14
+Tag:ID Value:22
+Tag:PUESTO Value:29
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:709.5399 Y:12.5279 Rotation:3.14
+Tag:ID Value:20
+Tag:PUESTO Value:27
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:635.4053 Y:12.1912 Rotation:3.14
+Tag:ID Value:18
+Tag:PUESTO Value:25
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:555.4664 Y:12.1949 Rotation:3.14
+Tag:ID Value:16
+Tag:PUESTO Value:23
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:487.0603 Y:13.2051 Rotation:3.14
+Tag:ID Value:14
+Tag:PUESTO Value:21
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:728.5515 Y:-81.3337 Rotation:0.00
+Tag:ID Value:23
+Tag:PUESTO Value:30
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:641.8199 Y:-81.8622 Rotation:0.00
+Tag:ID Value:21
+Tag:PUESTO Value:28
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:573.5980 Y:-82.3907 Rotation:0.00
+Tag:ID Value:19
+Tag:PUESTO Value:26
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:495.5174 Y:-83.3169 Rotation:0.00
+Tag:ID Value:17
+Tag:PUESTO Value:24
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:424.5109 Y:-83.3169 Rotation:0.00
+Tag:ID Value:15
+Tag:PUESTO Value:22
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:338.2113 Y:-83.2663 Rotation:0.00
+Tag:ID Value:13
+Tag:PUESTO Value:20
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:790.8639 Y:256.2039 Rotation:3.14
+Tag:ID Value:12
+Tag:PUESTO Value:13
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:709.6527 Y:258.5611 Rotation:3.14
+Tag:ID Value:11
+Tag:PUESTO Value:11
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:635.5180 Y:258.2244 Rotation:3.14
+Tag:ID Value:10
+Tag:PUESTO Value:9
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:555.5792 Y:258.2281 Rotation:3.14
+Tag:ID Value:9
+Tag:PUESTO Value:7
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:487.1731 Y:259.2383 Rotation:3.14
+Tag:ID Value:8
+Tag:PUESTO Value:5
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:404.8480 Y:257.1548 Rotation:3.14
+Tag:ID Value:2
+Tag:PUESTO Value:3
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:728.6643 Y:164.6994 Rotation:0.00
+Tag:ID Value:7
+Tag:PUESTO Value:14
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:641.9326 Y:164.1709 Rotation:0.00
+Tag:ID Value:6
+Tag:PUESTO Value:12
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:573.7108 Y:163.6425 Rotation:0.00
+Tag:ID Value:5
+Tag:PUESTO Value:10
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:495.6302 Y:162.7162 Rotation:0.00
+Tag:ID Value:4
+Tag:PUESTO Value:8
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:424.6236 Y:162.7162 Rotation:0.00
+Tag:ID Value:3
+Tag:PUESTO Value:6
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Keyboard X:338.3240 Y:162.7668 Rotation:0.00
+Tag:ID Value:1
+Tag:PUESTO Value:4
+Tag:MARCA Value:Logitech
+Tag:TIEMPO_DE_USO Value:3
+
+Block:Televisor X:93.7488 Y:329.3151 Rotation:3.14
+Tag:ID Value:1
+Tag:MARCA Value:Samsung
+
+Block:Silla X:828.3043 Y:-112.1220 Rotation:3.14
+Tag:ID Value:31
+Tag:PUESTO Value:32
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:757.0675 Y:-112.6364 Rotation:3.14
+Tag:ID Value:29
+Tag:PUESTO Value:30
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:680.5348 Y:-112.6364 Rotation:3.14
+Tag:ID Value:27
+Tag:PUESTO Value:28
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:609.2980 Y:-112.1220 Rotation:3.14
+Tag:ID Value:25
+Tag:PUESTO Value:26
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:522.1249 Y:-112.1220 Rotation:3.14
+Tag:ID Value:23
+Tag:PUESTO Value:24
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:450.8882 Y:-112.6364 Rotation:3.14
+Tag:ID Value:21
+Tag:PUESTO Value:22
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:374.3554 Y:-112.6364 Rotation:3.14
+Tag:ID Value:19
+Tag:PUESTO Value:20
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:303.1187 Y:-112.1220 Rotation:3.14
+Tag:ID Value:17
+Tag:PUESTO Value:18
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:833.6245 Y:41.3673 Rotation:0.00
+Tag:ID Value:30
+Tag:PUESTO Value:31
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:762.3877 Y:40.8529 Rotation:0.00
+Tag:ID Value:28
+Tag:PUESTO Value:29
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:675.2146 Y:40.8529 Rotation:6.28
+Tag:ID Value:26
+Tag:PUESTO Value:27
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:603.9779 Y:41.3673 Rotation:0.00
+Tag:ID Value:24
+Tag:PUESTO Value:25
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:527.4451 Y:41.3673 Rotation:0.00
+Tag:ID Value:22
+Tag:PUESTO Value:23
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:456.2084 Y:40.8529 Rotation:0.00
+Tag:ID Value:20
+Tag:PUESTO Value:21
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:374.3554 Y:41.3673 Rotation:0.00
+Tag:ID Value:18
+Tag:PUESTO Value:19
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:828.4170 Y:133.9112 Rotation:3.14
+Tag:ID Value:16
+Tag:PUESTO Value:16
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:757.1803 Y:133.3968 Rotation:3.14
+Tag:ID Value:15
+Tag:PUESTO Value:14
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:680.6476 Y:133.3968 Rotation:3.14
+Tag:ID Value:14
+Tag:PUESTO Value:12
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:609.4108 Y:133.9112 Rotation:3.14
+Tag:ID Value:13
+Tag:PUESTO Value:10
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:522.2377 Y:133.9112 Rotation:3.14
+Tag:ID Value:12
+Tag:PUESTO Value:8
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:451.0010 Y:133.3968 Rotation:3.14
+Tag:ID Value:11
+Tag:PUESTO Value:6
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:374.4682 Y:133.3968 Rotation:3.14
+Tag:ID Value:10
+Tag:PUESTO Value:4
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:303.2315 Y:133.9112 Rotation:3.14
+Tag:ID Value:9
+Tag:PUESTO Value:2
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:303.2315 Y:286.8861 Rotation:0.00
+Tag:ID Value:8
+Tag:PUESTO Value:1
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:833.7372 Y:287.4005 Rotation:0.00
+Tag:ID Value:7
+Tag:PUESTO Value:15
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:762.5005 Y:286.8861 Rotation:0.00
+Tag:ID Value:6
+Tag:PUESTO Value:13
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:675.3274 Y:286.8861 Rotation:6.28
+Tag:ID Value:5
+Tag:PUESTO Value:11
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:604.0906 Y:287.4005 Rotation:0.00
+Tag:ID Value:4
+Tag:PUESTO Value:9
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:527.5579 Y:287.4005 Rotation:0.00
+Tag:ID Value:3
+Tag:PUESTO Value:7
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:456.3211 Y:286.8861 Rotation:0.00
+Tag:ID Value:2
+Tag:PUESTO Value:5
+Tag:MARCA Value:Homecenter
+
+Block:Silla X:374.4682 Y:287.4005 Rotation:0.00
+Tag:ID Value:1
+Tag:PUESTO Value:3
+Tag:MARCA Value:Homecenter
+
+Block:Monitor X:757.9994 Y:-19.0821 Rotation:3.14
+Tag:ID Value:22
+Tag:PUESTO Value:29
+Tag:TIEMPO_DE_USO Value:1
+Tag:MARCA Value:LG
+
+Block:Monitor X:677.6772 Y:-19.1887 Rotation:3.14
+Tag:ID Value:20
+Tag:PUESTO Value:27
+Tag:TIEMPO_DE_USO Value:5
+Tag:MARCA Value:Samsung
+
+Block:Monitor X:604.9098 Y:-19.0821 Rotation:3.14
+Tag:ID Value:18
+Tag:PUESTO Value:25
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:524.5875 Y:-19.1887 Rotation:3.14
+Tag:ID Value:9
+Tag:PUESTO Value:7
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:453.6535 Y:-19.0821 Rotation:3.14
+Tag:ID Value:14
+Tag:PUESTO Value:21
+Tag:TIEMPO_DE_USO Value:5
+Tag:MARCA Value:Samsung
+
+Block:Monitor X:759.2707 Y:-51.5369 Rotation:0.05
+Tag:ID Value:23
+Tag:PUESTO Value:30
+Tag:TIEMPO_DE_USO Value:5
+Tag:MARCA Value:Samsung
+
+Block:Monitor X:678.9485 Y:-51.6435 Rotation:0.05
+Tag:ID Value:21
+Tag:PUESTO Value:28
+Tag:TIEMPO_DE_USO Value:5
+Tag:MARCA Value:Samsung
+
+Block:Monitor X:606.1811 Y:-51.5369 Rotation:0.05
+Tag:ID Value:19
+Tag:PUESTO Value:26
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:525.8588 Y:-51.6435 Rotation:0.05
+Tag:ID Value:17
+Tag:PUESTO Value:24
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:453.0914 Y:-51.5369 Rotation:0.05
+Tag:ID Value:15
+Tag:PUESTO Value:22
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:371.4978 Y:-51.6308 Rotation:0.00
+Tag:ID Value:13
+Tag:PUESTO Value:20
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:758.1122 Y:226.9511 Rotation:3.14
+Tag:ID Value:12
+Tag:PUESTO Value:13
+Tag:TIEMPO_DE_USO Value:1
+Tag:MARCA Value:LG
+
+Block:Monitor X:677.7899 Y:226.8444 Rotation:3.14
+Tag:ID Value:11
+Tag:PUESTO Value:11
+Tag:TIEMPO_DE_USO Value:5
+Tag:MARCA Value:Samsung
+
+Block:Monitor X:605.0225 Y:226.9511 Rotation:3.14
+Tag:ID Value:10
+Tag:PUESTO Value:9
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:524.7003 Y:226.8444 Rotation:3.14
+Tag:ID Value:9
+Tag:PUESTO Value:7
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:453.7662 Y:226.9511 Rotation:3.14
+Tag:ID Value:8
+Tag:PUESTO Value:5
+Tag:TIEMPO_DE_USO Value:5
+Tag:MARCA Value:Samsung
+
+Block:Monitor X:372.8819 Y:226.8571 Rotation:3.10
+Tag:ID Value:7
+Tag:PUESTO Value:3
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:759.3835 Y:194.4963 Rotation:0.05
+Tag:ID Value:6
+Tag:PUESTO Value:14
+Tag:TIEMPO_DE_USO Value:5
+Tag:MARCA Value:Samsung
+
+Block:Monitor X:679.0612 Y:194.3897 Rotation:0.05
+Tag:ID Value:5
+Tag:PUESTO Value:12
+Tag:TIEMPO_DE_USO Value:5
+Tag:MARCA Value:Samsung
+
+Block:Monitor X:606.2938 Y:194.4963 Rotation:0.05
+Tag:ID Value:4
+Tag:PUESTO Value:10
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:525.9716 Y:194.3897 Rotation:0.05
+Tag:ID Value:3
+Tag:PUESTO Value:8
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:453.2042 Y:194.4963 Rotation:0.05
+Tag:ID Value:2
+Tag:PUESTO Value:6
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
+
+Block:Monitor X:371.6106 Y:194.4024 Rotation:0.00
+Tag:ID Value:1
+Tag:PUESTO Value:4
+Tag:TIEMPO_DE_USO Value:3
+Tag:MARCA Value:LG
